@@ -1,0 +1,8 @@
+{
+  "name": "cabriconfig",
+  "version": "0.1.0",
+  "description": "Opus team lead + Sonnet workers (frontend, app, QA, cyber) with per-agent skill libraries and worktree hygiene.",
+  "author": { "name": "ElCabrii", "url": "https://github.com/ElCabrii" },
+  "repository": "https://github.com/ElCabrii/CabriConfig",
+  "license": "MIT"
+}

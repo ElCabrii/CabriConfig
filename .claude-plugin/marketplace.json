@@ -1,0 +1,12 @@
+{
+  "name": "cabriconfig",
+  "description": "Personal Claude Code team setup by ElCabrii.",
+  "owner": { "name": "ElCabrii", "url": "https://github.com/ElCabrii" },
+  "plugins": [
+    {
+      "name": "cabriconfig",
+      "description": "Opus team lead + Sonnet workers with per-agent skill libraries and worktree hygiene.",
+      "source": "./"
+    }
+  ]
+}
